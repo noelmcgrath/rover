@@ -1,4 +1,4 @@
-ARG TF_VERSION=light
+ARG TF_VERSION=0.14.3
 
 FROM hashicorp/terraform:$TF_VERSION
 
